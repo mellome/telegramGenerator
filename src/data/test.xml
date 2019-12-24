@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<message>
+    <ITEM>
+        <description></description>
+        <dimensionUnit_ISO>cm</dimensionUnit_ISO>
+        <gross_Weight></gross_Weight>
+        <height></height>
+        <length></length>
+        <MATERIAL></MATERIAL>
+        <materialCodeEAN></materialCodeEAN>
+        <quantitySKU>10</quantitySKU>
+        <SKU_T1></SKU_T1>
+        <SKU_T2></SKU_T2>
+        <SOFT>true</SOFT>
+        <unitOfMeasure>PCS</unitOfMeasure>
+        <volumeUnit_ISO>qcm</volumeUnit_ISO>
+        <volume_SKU>1000</volume_SKU>
+        <weightUnit_ISO>g</weightUnit_ISO>
+        <width></width>
+    </ITEM>
+</message>

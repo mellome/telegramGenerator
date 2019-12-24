@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<message>
+    <body>
+        <Eitrag>
+            <articleStr>dsf</articleStr>
+            <batchStr></batchStr>
+            <locationStr></locationStr>
+            <materialStr>sdf</materialStr>
+            <quantityStr></quantityStr>
+        </Eitrag>
+    </body>
+    <header>
+        <messageID>300000000000003</messageID>
+        <messageSentOn>201809031100</messageSentOn>
+        <messageType>ITEM_DATA</messageType>
+    </header>
+</message>

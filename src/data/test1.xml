@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Message>
+    <body>
+        <articleStr>111</articleStr>
+        <batchStr></batchStr>
+        <locationStr></locationStr>
+        <materialStr>tert</materialStr>
+        <quantityStr></quantityStr>
+    </body>
+    <header>
+        <messageID>300000000000003</messageID>
+        <messageSentOn>201809031100</messageSentOn>
+        <messageType>ITEM_DATA</messageType>
+    </header>
+</Message>
